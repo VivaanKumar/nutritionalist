@@ -1,71 +1,26 @@
-# Getting Started with Create React App
+## The Nutritionalist
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## https://the-nutritionalist.netlify.app
 
-In the project directory, you can run:
+###### Hackathon winner locally in Hong Kong and 2nd globally world wide. 
+###### Hackathon topic - global goals 3, 4, and 5 - the Nutritionalist works apon global goal 3.
 
-### `npm start`
+#### (Dashboard)
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/109092388/178974310-3e7be711-5824-4089-90ec-8fec36afcdd5.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+#### (AI detecting foods, returning nutritional aspects)
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/109092388/178975008-6eb93e58-a3fa-4cc0-882e-76a6f39ad95f.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### (AI answering questions)
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/109092388/178975243-739e10ff-f45c-4e49-8890-a0b4ea6f47ab.png">
 
-### `npm test`
+#### (Program running through hundreds of healthy foods database and returning onces with best nutritional value)
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/109092388/178975495-6779260c-ed89-4ef0-8379-f7c2c9508bd4.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Ability to search trough hundreds of databases to see nutritional value and add to today's calories
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/109092388/178975778-05151952-c055-4a90-8ea3-d15c59bda715.png">
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/109092388/178975851-d6e18908-9f29-493e-9c04-05829e941a18.png">
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/109092388/178975994-3d039fb9-8e9f-4945-a0b6-42435871e6bd.png">
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# nutrit" 
+### The Nutritionalist has many more features not shown... check out on website.
