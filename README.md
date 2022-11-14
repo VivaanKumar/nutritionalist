@@ -3,8 +3,8 @@
 
 ## https://the-nutritionalist.netlify.app
 
-###### Hackathon winner locally in Hong Kong and 2nd globally world wide. 
-###### Hackathon topic - global goals 3, 4, and 5 - the Nutritionalist works apon global goal 3.
+## my least impressive build :|
+
 
 #### (Dashboard)
 <img width="317" alt="image" src="https://user-images.githubusercontent.com/109092388/178974310-3e7be711-5824-4089-90ec-8fec36afcdd5.png">
